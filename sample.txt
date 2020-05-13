@@ -1,3 +1,5 @@
 This is a sample text for git
 
 This is how I am sampling someone else's push
+
+on computer changes
