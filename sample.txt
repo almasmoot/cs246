@@ -3,6 +3,5 @@ This is a sample text for git
 This is how I am sampling someone else's push
 
 
-Creating a merge conflict
+creating a merge conflict
 
-testing revert
